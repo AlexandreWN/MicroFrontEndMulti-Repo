@@ -1,0 +1,8 @@
+**/node-modules/
+**/bin/
+**/obj/
+**/.angular/
+**/.vs/
+**/package.json
+**/package-lock.json
+**/dist
